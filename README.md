@@ -298,4 +298,4 @@ blinkit-sql-analysis/
 For questions or collaboration opportunities, reach out via:
 - **GitHub:** VEDA-2402
 - **LinkedIn:** https://www.linkedin.com/in/veda-t-8b9a7134a/
-- **Email:** veda.vedhya240205example.com
+- **Email:** veda.vedhya240205@gmail.com
